@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A source-auditable reanalysis of immune-state readouts in liver metastasis, with a prospective specimen record template. Prepared by Cathy Liu.">
+  <title>Exploratory Analyses Inspired by the James Lee Lab</title>
+  <link rel="stylesheet" href="styles.css?v=1">
+</head>
+<body>
+  <main class="page">
+    <h1>Exploratory Analyses Inspired by the James Lee Lab</h1>
+    <div class="byline">
+      Cathy Liu · Biotechnology &amp; computational biology · <a href="mailto:cathyliu014@gmail.com">cathyliu014@gmail.com</a><br>
+      Prepared for the James C. Lee Lab, UCSF<br>
+      Personal exploratory project, November 2026
+    </div>
+    <nav class="section-nav" aria-label="Demo sections">
+      <a href="#motivation">Question</a><a href="#a1">Readout selection</a><a href="#a2">Specimen records</a><a href="#relevance">Next question</a>
+    </nav>
+    <p>Having tumor-reactive T cells present is not the same as having them function well. The Lee Lab’s liver-metastasis work makes that distinction especially important: an immune response at one site can be suppressed by a tumor somewhere else.</p>
+    <p>I built a small evidence-to-panel tool to ask: which measured changes recur across different interventions, and what should we record to test them again? It connects the lab’s published observations to a transparent readout shortlist and a specimen-record template.</p>
+    <hr id="motivation">
+    <section aria-labelledby="how-heading">
+      <h2 id="how-heading">How it works</h2>
+      <p>The inputs are individual endpoint values from <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7755924/">Lee et al., 2020</a>, Table S1. I compare four markers shared by four contrasts, keeping the parent cell population fixed. A candidate must decrease with liver involvement and increase in each of three separate intervention comparisons.</p>
+      <p>The starting cutoff is five <em>percentage points</em>, chosen for exploration—not a validated biological threshold. The optional sensitivity check asks whether the cutoff still holds after omitting any one observation. These are descriptive comparisons within one paper, not independent validation or a treatment ranking.</p>
+    </section>
+    <hr id="a1">
+    <section aria-labelledby="analysis-one-heading">
+      <h2 id="analysis-one-heading">Analysis 1 — Which readouts would you carry forward?</h2>
+      <div class="experiment">
+        <div class="exp-label">Question</div>
+        <div class="exp-title">A phenotype or function readout, not just a cell count</div>
+        <p>Start at 5 points, then try 10. Select a marker and comparison to inspect every published observation. A marker that misses this rule may still be biologically useful.</p>
+      </div>
+      <div class="panel">
+        <div class="controls">
+          <label for="threshold">Minimum change in every contrast
+            <select id="threshold"><option value="0">0 percentage points</option><option value="5" selected>5 percentage points</option><option value="10">10 percentage points</option><option value="15">15 percentage points</option><option value="20">20 percentage points</option></select>
+          </label>
+          <label class="check"><input id="robust" type="checkbox" checked> Require the cutoff after any single observation is omitted</label>
+        </div>
+        <div class="readout" id="shortlist" aria-live="polite"></div>
+        <div class="table-scroll"><table class="effect-table" id="effect-table"><caption>Mean differences, percentage points.</caption></table></div>
+        <div class="controls plot-controls">
+          <label for="marker">Inspect readout <select id="marker"><option value="ICOS">ICOS</option><option value="IFNg">IFNγ</option><option value="CTLA4">CTLA-4</option><option value="PD1">PD-1</option></select></label>
+          <label for="contrast">Comparison <select id="contrast"><option value="liver">Liver-associated change · Fig 3F</option><option value="dt">Treg depletion · Fig 3I</option><option value="9h10">9H10 vs isotype · Fig 4D</option><option value="ezh2">CPI-1205 combination · Fig 4G</option></select></label>
+        </div>
+        <p class="chart-heading" id="chart-heading"></p>
+        <svg id="hero-viz" class="viz" viewBox="0 0 600 285" role="img" aria-label="Individual published measurements and group means"></svg>
+        <div class="readout" id="readout" aria-live="polite"></div>
+        <figcaption id="point-caption"></figcaption>
+        <details><summary>Inspect source values and calculation</summary><div id="source-values" class="source-values"></div></details>
+      </div>
+      <div class="metric-row">
+        <div class="metric"><span class="metric-val" id="metric-one">2 / 4</span><span class="metric-desc">candidate readouts at this setting</span></div>
+        <div class="metric"><span class="metric-val">4</span><span class="metric-desc">separate contrasts, one paper</span></div>
+        <div class="metric"><span class="metric-val">400</span><span class="metric-desc">endpoint records, not unique mice</span></div>
+      </div>
+      <p class="utility"><strong>What this lets the lab do:</strong> choose a provisional readout set, see what makes it fail a stricter rule, and inspect the original values before committing to a panel.</p>
+      <p class="utility"><strong>Where Cathy adds value:</strong> a traceable comparison across separate figures, with explicit denominators and sensitivity checks—connecting quantitative interpretation to careful experimental records.</p>
+    </section>
+    <hr id="a2">
+    <section aria-labelledby="analysis-two-heading">
+      <h2 id="analysis-two-heading">Analysis 2 — Keep abundance and state separate</h2>
+      <div class="experiment"><div class="exp-label">Context → record design</div><div class="exp-title">Retain an abundance anchor, even when it misses the state-change rule</div></div>
+      <p>A percentage of antigen-specific cells among CD8 cells answers a different question from the percentage of those antigen-specific cells expressing ICOS or IFNγ. The plot below follows the comparison selected above; it is not paired to the marker plot by animal.</p>
+      <svg id="abundance-viz" class="viz" viewBox="0 0 600 260" role="img" aria-label="Antigen-specific abundance in the selected comparison"></svg>
+      <p class="context-note" id="abundance-note"></p>
+      <div class="panel">
+        <h3>For the next set of specimens</h3>
+        <p class="compact">The current shortlist determines the proposed endpoint records below. These are blank, prospective records—not reconstructed sample IDs, a validated staining panel, or a laboratory protocol.</p>
+        <div id="plan" aria-live="polite"></div>
+        <button class="download" id="download-plan" type="button">Download readout / specimen template</button>
+        <p class="compact">Record animal ID → specimen ID → tissue site → aliquot ID → processing batch, alongside the parent gate, stimulation condition, acquisition/gating versions and exclusions. Keep phenotype and stimulated cytokine measurements distinguishable.</p>
+      </div>
+      <p class="utility"><strong>What this lets the lab do:</strong> carry the shortlist into a consistent specimen ledger, rather than discovering after analysis that tissue sites, aliquots or batches cannot be matched.</p>
+      <p class="utility"><strong>Where Cathy adds value:</strong> bringing the documentation discipline of method-validation work to a reusable, denominator-aware data schema. The proposed format still needs the lab’s review.</p>
+    </section>
+    <hr id="relevance">
+    <section aria-labelledby="relevance-heading">
+      <h2 id="relevance-heading">Why this matters for the lab</h2>
+      <p>The lab studies how organ context shapes systemic immunity and therapy response. A useful follow-up question is whether a change in tumor-reactive cell abundance is accompanied by a change in their state. The two need not move together.</p>
+      <p>A prospective comparison could retain an abundance anchor plus the shortlisted endpoints, with matched tissue-site and processing records, appropriate staining and stimulation controls, and blinded analysis. If a state change persists within batches without an abundance shift, that would support a state-focused interpretation; if it disappears after accounting for batch or sample quality, the next step is measurement review. Neither result alone identifies a causal mechanism. This is an inferred opportunity, not a claim about the lab’s internal priorities.</p>
+      <h2>What I would bring</h2>
+      <p>My PDAC single-cell research taught me to connect cell-state patterns to biological questions, while my laboratory method-validation work made traceable records and quality checks part of how I work. I would like to bring that combination to specimen handling and immune-data interpretation, while learning the lab’s specific experimental methods.</p>
+      <h2>Methods note</h2>
+      <p class="methods-note">Source: Lee JC et al., <em>Science Immunology</em> (2020), <a href="https://doi.org/10.1126/sciimmunol.aba0759">doi:10.1126/sciimmunol.aba0759</a>. Table S1 was retrieved from the <a href="https://www.ebi.ac.uk/biostudies/studies/S-EPMC7755924">BioStudies archive</a>. Only Fig 3E/F/H/I and 4D/G endpoints shown here were extracted. The workbook has 15 values per group for Fig 3F; the figure caption’s general n=10 statement differs. Actual nonempty cells are used.</p>
+      <details class="methods-note"><summary>Assumptions, limits and reproducibility</summary>
+        <p>Groups are compared separately; marker percentages use KSP-tetramer+ CD8+ cells as the denominator, while abundance uses all CD8+ cells. No cross-figure animal matching or correlation is inferred. No batch or stable animal IDs, raw FCS files, gate-level counts or compensation information are available in this extract. The 400 endpoint records may reuse the same animals across markers.</p>
+        <p>Dots are published observations, horizontal lines are means. Differences are percentage points, not relative percentage changes. Leave-one-observation ranges are sensitivity ranges, not confidence intervals; they cannot assess between-experiment reproducibility. Medians are shown as a complementary outlier check. No values are excluded, no p-values are recomputed, and no equivalence claim is made for abundance.</p>
+        <p>The shared-marker subset was selected for complete coverage, and the directional rule is informed by this same paper. This is retrospective, exploratory readout prioritization—not independent validation, a predictive biomarker, an optimal panel, or a new mechanism. Separate treatment contrasts are not exchangeable and are never pooled. Functional cytokine measurements involve stimulation; phenotype and cytokine records must preserve that distinction.</p>
+        <p>Analysis and interface were developed with AI assistance and checked against source cells. This project does not establish independent bench execution or coding proficiency. Original data remain the authors’ work.</p>
+        <p><a href="https://github.com/liuzhitong330/james-lee-lab-demo">Code and English walkthrough</a> · <a href="observations.csv" download>400-record factual extract</a> · <a href="analysis.json" download>Calculated results</a> · <a href="PROVENANCE.json">Source checksum</a></p>
+      </details>
+    </section>
+    <footer>Cathy Liu · <a href="mailto:cathyliu014@gmail.com">cathyliu014@gmail.com</a> · <a href="tel:+14152163799">415-216-3799</a><br>Personal research reanalysis · Not affiliated with or endorsed by the Lee Lab</footer>
+  </main>
+  <script src="data.js?v=1"></script><script src="app.js?v=1"></script>
+</body>
+</html>

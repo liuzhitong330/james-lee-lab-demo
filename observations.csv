@@ -1,0 +1,401 @@
+contrast,marker,denominator,value,source_sheet,source_cell,group
+liver,PD1,KSP-tetramer+ CD8+ T cells,93.8,Figure 3F,C2,SQ only
+liver,PD1,KSP-tetramer+ CD8+ T cells,97.1,Figure 3F,D2,SQ only
+liver,PD1,KSP-tetramer+ CD8+ T cells,91.6,Figure 3F,E2,SQ only
+liver,PD1,KSP-tetramer+ CD8+ T cells,63.7,Figure 3F,F2,SQ only
+liver,PD1,KSP-tetramer+ CD8+ T cells,78.4,Figure 3F,G2,SQ only
+liver,PD1,KSP-tetramer+ CD8+ T cells,94.9,Figure 3F,H2,SQ only
+liver,PD1,KSP-tetramer+ CD8+ T cells,89.5,Figure 3F,I2,SQ only
+liver,PD1,KSP-tetramer+ CD8+ T cells,74.7,Figure 3F,J2,SQ only
+liver,PD1,KSP-tetramer+ CD8+ T cells,93.1,Figure 3F,K2,SQ only
+liver,PD1,KSP-tetramer+ CD8+ T cells,75.0,Figure 3F,L2,SQ only
+liver,PD1,KSP-tetramer+ CD8+ T cells,79.5,Figure 3F,M2,SQ only
+liver,PD1,KSP-tetramer+ CD8+ T cells,81.5,Figure 3F,N2,SQ only
+liver,PD1,KSP-tetramer+ CD8+ T cells,88.8,Figure 3F,O2,SQ only
+liver,PD1,KSP-tetramer+ CD8+ T cells,79.01,Figure 3F,P2,SQ only
+liver,PD1,KSP-tetramer+ CD8+ T cells,69.09,Figure 3F,Q2,SQ only
+liver,PD1,KSP-tetramer+ CD8+ T cells,81.2,Figure 3F,R2,SQ + liver
+liver,PD1,KSP-tetramer+ CD8+ T cells,92.4,Figure 3F,S2,SQ + liver
+liver,PD1,KSP-tetramer+ CD8+ T cells,95.7,Figure 3F,T2,SQ + liver
+liver,PD1,KSP-tetramer+ CD8+ T cells,92.5,Figure 3F,U2,SQ + liver
+liver,PD1,KSP-tetramer+ CD8+ T cells,97.2,Figure 3F,V2,SQ + liver
+liver,PD1,KSP-tetramer+ CD8+ T cells,95.4,Figure 3F,W2,SQ + liver
+liver,PD1,KSP-tetramer+ CD8+ T cells,91.4,Figure 3F,X2,SQ + liver
+liver,PD1,KSP-tetramer+ CD8+ T cells,93.0,Figure 3F,Y2,SQ + liver
+liver,PD1,KSP-tetramer+ CD8+ T cells,77.27,Figure 3F,Z2,SQ + liver
+liver,PD1,KSP-tetramer+ CD8+ T cells,69.89,Figure 3F,AA2,SQ + liver
+liver,PD1,KSP-tetramer+ CD8+ T cells,75.57,Figure 3F,AB2,SQ + liver
+liver,PD1,KSP-tetramer+ CD8+ T cells,58.87,Figure 3F,AC2,SQ + liver
+liver,PD1,KSP-tetramer+ CD8+ T cells,69.08,Figure 3F,AD2,SQ + liver
+liver,PD1,KSP-tetramer+ CD8+ T cells,85.5,Figure 3F,AE2,SQ + liver
+liver,PD1,KSP-tetramer+ CD8+ T cells,90.9,Figure 3F,AF2,SQ + liver
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,24.8,Figure 3F,C3,SQ only
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,9.88,Figure 3F,D3,SQ only
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,24.4,Figure 3F,E3,SQ only
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,11.2,Figure 3F,F3,SQ only
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,11.7,Figure 3F,G3,SQ only
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,57.6,Figure 3F,H3,SQ only
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,27.8,Figure 3F,I3,SQ only
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,45.1,Figure 3F,J3,SQ only
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,49.8,Figure 3F,K3,SQ only
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,27.0,Figure 3F,L3,SQ only
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,30.13,Figure 3F,M3,SQ only
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,29.8,Figure 3F,N3,SQ only
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,37.41,Figure 3F,O3,SQ only
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,37.14,Figure 3F,P3,SQ only
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,33.33,Figure 3F,Q3,SQ only
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,6.9,Figure 3F,R3,SQ + liver
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,31.9,Figure 3F,S3,SQ + liver
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,16.6,Figure 3F,T3,SQ + liver
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,7.6,Figure 3F,U3,SQ + liver
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,9.16,Figure 3F,V3,SQ + liver
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,9.18,Figure 3F,W3,SQ + liver
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,1.42,Figure 3F,X3,SQ + liver
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,10.2,Figure 3F,Y3,SQ + liver
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,21.9,Figure 3F,Z3,SQ + liver
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,35.1,Figure 3F,AA3,SQ + liver
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,32.1,Figure 3F,AB3,SQ + liver
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,24.5,Figure 3F,AC3,SQ + liver
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,20.9,Figure 3F,AD3,SQ + liver
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,25.0,Figure 3F,AE3,SQ + liver
+liver,CTLA4,KSP-tetramer+ CD8+ T cells,27.8,Figure 3F,AF3,SQ + liver
+liver,ICOS,KSP-tetramer+ CD8+ T cells,68.9,Figure 3F,C4,SQ only
+liver,ICOS,KSP-tetramer+ CD8+ T cells,64.2,Figure 3F,D4,SQ only
+liver,ICOS,KSP-tetramer+ CD8+ T cells,78.2,Figure 3F,E4,SQ only
+liver,ICOS,KSP-tetramer+ CD8+ T cells,56.2,Figure 3F,F4,SQ only
+liver,ICOS,KSP-tetramer+ CD8+ T cells,53.7,Figure 3F,G4,SQ only
+liver,ICOS,KSP-tetramer+ CD8+ T cells,65.4,Figure 3F,H4,SQ only
+liver,ICOS,KSP-tetramer+ CD8+ T cells,66.7,Figure 3F,I4,SQ only
+liver,ICOS,KSP-tetramer+ CD8+ T cells,66.2,Figure 3F,J4,SQ only
+liver,ICOS,KSP-tetramer+ CD8+ T cells,45.9,Figure 3F,K4,SQ only
+liver,ICOS,KSP-tetramer+ CD8+ T cells,51.0,Figure 3F,L4,SQ only
+liver,ICOS,KSP-tetramer+ CD8+ T cells,74.29,Figure 3F,M4,SQ only
+liver,ICOS,KSP-tetramer+ CD8+ T cells,81.06,Figure 3F,N4,SQ only
+liver,ICOS,KSP-tetramer+ CD8+ T cells,65.99,Figure 3F,O4,SQ only
+liver,ICOS,KSP-tetramer+ CD8+ T cells,58.6,Figure 3F,P4,SQ only
+liver,ICOS,KSP-tetramer+ CD8+ T cells,57.9,Figure 3F,Q4,SQ only
+liver,ICOS,KSP-tetramer+ CD8+ T cells,61.4,Figure 3F,R4,SQ + liver
+liver,ICOS,KSP-tetramer+ CD8+ T cells,23.4,Figure 3F,S4,SQ + liver
+liver,ICOS,KSP-tetramer+ CD8+ T cells,33.3,Figure 3F,T4,SQ + liver
+liver,ICOS,KSP-tetramer+ CD8+ T cells,33.8,Figure 3F,U4,SQ + liver
+liver,ICOS,KSP-tetramer+ CD8+ T cells,11.3,Figure 3F,V4,SQ + liver
+liver,ICOS,KSP-tetramer+ CD8+ T cells,13.7,Figure 3F,W4,SQ + liver
+liver,ICOS,KSP-tetramer+ CD8+ T cells,15.2,Figure 3F,X4,SQ + liver
+liver,ICOS,KSP-tetramer+ CD8+ T cells,21.5,Figure 3F,Y4,SQ + liver
+liver,ICOS,KSP-tetramer+ CD8+ T cells,45.8,Figure 3F,Z4,SQ + liver
+liver,ICOS,KSP-tetramer+ CD8+ T cells,17.5,Figure 3F,AA4,SQ + liver
+liver,ICOS,KSP-tetramer+ CD8+ T cells,19.5,Figure 3F,AB4,SQ + liver
+liver,ICOS,KSP-tetramer+ CD8+ T cells,20.6,Figure 3F,AC4,SQ + liver
+liver,ICOS,KSP-tetramer+ CD8+ T cells,16.5,Figure 3F,AD4,SQ + liver
+liver,ICOS,KSP-tetramer+ CD8+ T cells,17.9,Figure 3F,AE4,SQ + liver
+liver,ICOS,KSP-tetramer+ CD8+ T cells,18.9,Figure 3F,AF4,SQ + liver
+liver,IFNg,KSP-tetramer+ CD8+ T cells,49.8,Figure 3F,C5,SQ only
+liver,IFNg,KSP-tetramer+ CD8+ T cells,44.9,Figure 3F,D5,SQ only
+liver,IFNg,KSP-tetramer+ CD8+ T cells,52.1,Figure 3F,E5,SQ only
+liver,IFNg,KSP-tetramer+ CD8+ T cells,36.3,Figure 3F,F5,SQ only
+liver,IFNg,KSP-tetramer+ CD8+ T cells,55.0,Figure 3F,G5,SQ only
+liver,IFNg,KSP-tetramer+ CD8+ T cells,48.0,Figure 3F,H5,SQ only
+liver,IFNg,KSP-tetramer+ CD8+ T cells,38.0,Figure 3F,I5,SQ only
+liver,IFNg,KSP-tetramer+ CD8+ T cells,49.0,Figure 3F,J5,SQ only
+liver,IFNg,KSP-tetramer+ CD8+ T cells,50.1,Figure 3F,K5,SQ only
+liver,IFNg,KSP-tetramer+ CD8+ T cells,30.1,Figure 3F,L5,SQ only
+liver,IFNg,KSP-tetramer+ CD8+ T cells,33.4,Figure 3F,M5,SQ only
+liver,IFNg,KSP-tetramer+ CD8+ T cells,15.5,Figure 3F,N5,SQ only
+liver,IFNg,KSP-tetramer+ CD8+ T cells,9.8,Figure 3F,O5,SQ only
+liver,IFNg,KSP-tetramer+ CD8+ T cells,14.1,Figure 3F,P5,SQ only
+liver,IFNg,KSP-tetramer+ CD8+ T cells,9.21,Figure 3F,Q5,SQ only
+liver,IFNg,KSP-tetramer+ CD8+ T cells,20.6,Figure 3F,R5,SQ + liver
+liver,IFNg,KSP-tetramer+ CD8+ T cells,35.1,Figure 3F,S5,SQ + liver
+liver,IFNg,KSP-tetramer+ CD8+ T cells,16.7,Figure 3F,T5,SQ + liver
+liver,IFNg,KSP-tetramer+ CD8+ T cells,13.3,Figure 3F,U5,SQ + liver
+liver,IFNg,KSP-tetramer+ CD8+ T cells,12.0,Figure 3F,V5,SQ + liver
+liver,IFNg,KSP-tetramer+ CD8+ T cells,19.0,Figure 3F,W5,SQ + liver
+liver,IFNg,KSP-tetramer+ CD8+ T cells,20.5,Figure 3F,X5,SQ + liver
+liver,IFNg,KSP-tetramer+ CD8+ T cells,22.0,Figure 3F,Y5,SQ + liver
+liver,IFNg,KSP-tetramer+ CD8+ T cells,27.0,Figure 3F,Z5,SQ + liver
+liver,IFNg,KSP-tetramer+ CD8+ T cells,25.0,Figure 3F,AA5,SQ + liver
+liver,IFNg,KSP-tetramer+ CD8+ T cells,16.8,Figure 3F,AB5,SQ + liver
+liver,IFNg,KSP-tetramer+ CD8+ T cells,7.77,Figure 3F,AC5,SQ + liver
+liver,IFNg,KSP-tetramer+ CD8+ T cells,5.98,Figure 3F,AD5,SQ + liver
+liver,IFNg,KSP-tetramer+ CD8+ T cells,4.43,Figure 3F,AE5,SQ + liver
+liver,IFNg,KSP-tetramer+ CD8+ T cells,4.38,Figure 3F,AF5,SQ + liver
+liver,Tetramer abundance,CD8+ T cells,29.2,Figure 3E,C2,SQ only
+liver,Tetramer abundance,CD8+ T cells,16.7,Figure 3E,D2,SQ only
+liver,Tetramer abundance,CD8+ T cells,29.6,Figure 3E,E2,SQ only
+liver,Tetramer abundance,CD8+ T cells,19.3,Figure 3E,F2,SQ only
+liver,Tetramer abundance,CD8+ T cells,17.8,Figure 3E,G2,SQ only
+liver,Tetramer abundance,CD8+ T cells,29.9,Figure 3E,H2,SQ only
+liver,Tetramer abundance,CD8+ T cells,25.5,Figure 3E,I2,SQ only
+liver,Tetramer abundance,CD8+ T cells,36.0,Figure 3E,J2,SQ only
+liver,Tetramer abundance,CD8+ T cells,14.0,Figure 3E,K2,SQ only
+liver,Tetramer abundance,CD8+ T cells,16.7,Figure 3E,L2,SQ only
+liver,Tetramer abundance,CD8+ T cells,55.1,Figure 3E,M2,SQ only
+liver,Tetramer abundance,CD8+ T cells,53.1,Figure 3E,N2,SQ only
+liver,Tetramer abundance,CD8+ T cells,42.0,Figure 3E,O2,SQ only
+liver,Tetramer abundance,CD8+ T cells,20.0,Figure 3E,P2,SQ only
+liver,Tetramer abundance,CD8+ T cells,24.8,Figure 3E,Q2,SQ only
+liver,Tetramer abundance,CD8+ T cells,35.2,Figure 3E,R2,SQ + liver
+liver,Tetramer abundance,CD8+ T cells,36.5,Figure 3E,S2,SQ + liver
+liver,Tetramer abundance,CD8+ T cells,22.6,Figure 3E,T2,SQ + liver
+liver,Tetramer abundance,CD8+ T cells,52.2,Figure 3E,U2,SQ + liver
+liver,Tetramer abundance,CD8+ T cells,26.1,Figure 3E,V2,SQ + liver
+liver,Tetramer abundance,CD8+ T cells,31.4,Figure 3E,W2,SQ + liver
+liver,Tetramer abundance,CD8+ T cells,21.5,Figure 3E,X2,SQ + liver
+liver,Tetramer abundance,CD8+ T cells,31.0,Figure 3E,Y2,SQ + liver
+liver,Tetramer abundance,CD8+ T cells,29.0,Figure 3E,Z2,SQ + liver
+liver,Tetramer abundance,CD8+ T cells,38.1,Figure 3E,AA2,SQ + liver
+liver,Tetramer abundance,CD8+ T cells,40.0,Figure 3E,AB2,SQ + liver
+liver,Tetramer abundance,CD8+ T cells,39.0,Figure 3E,AC2,SQ + liver
+liver,Tetramer abundance,CD8+ T cells,22.7,Figure 3E,AD2,SQ + liver
+liver,Tetramer abundance,CD8+ T cells,21.0,Figure 3E,AE2,SQ + liver
+liver,Tetramer abundance,CD8+ T cells,25.0,Figure 3E,AF2,SQ + liver
+dt,PD1,KSP-tetramer+ CD8+ T cells,76.7,Figure 3I,M2,DT−
+dt,PD1,KSP-tetramer+ CD8+ T cells,78.6,Figure 3I,N2,DT−
+dt,PD1,KSP-tetramer+ CD8+ T cells,54.8,Figure 3I,O2,DT−
+dt,PD1,KSP-tetramer+ CD8+ T cells,98.6,Figure 3I,P2,DT−
+dt,PD1,KSP-tetramer+ CD8+ T cells,86.9,Figure 3I,Q2,DT−
+dt,PD1,KSP-tetramer+ CD8+ T cells,92.4,Figure 3I,R2,DT−
+dt,PD1,KSP-tetramer+ CD8+ T cells,97.5,Figure 3I,S2,DT−
+dt,PD1,KSP-tetramer+ CD8+ T cells,91.0,Figure 3I,T2,DT−
+dt,PD1,KSP-tetramer+ CD8+ T cells,94.8,Figure 3I,U2,DT−
+dt,PD1,KSP-tetramer+ CD8+ T cells,98.2,Figure 3I,V2,DT−
+dt,PD1,KSP-tetramer+ CD8+ T cells,61.9,Figure 3I,C2,DT+
+dt,PD1,KSP-tetramer+ CD8+ T cells,65.9,Figure 3I,D2,DT+
+dt,PD1,KSP-tetramer+ CD8+ T cells,80.6,Figure 3I,E2,DT+
+dt,PD1,KSP-tetramer+ CD8+ T cells,84.2,Figure 3I,F2,DT+
+dt,PD1,KSP-tetramer+ CD8+ T cells,88.2,Figure 3I,G2,DT+
+dt,PD1,KSP-tetramer+ CD8+ T cells,83.9,Figure 3I,H2,DT+
+dt,PD1,KSP-tetramer+ CD8+ T cells,51.9,Figure 3I,I2,DT+
+dt,PD1,KSP-tetramer+ CD8+ T cells,65.7,Figure 3I,J2,DT+
+dt,PD1,KSP-tetramer+ CD8+ T cells,69.1,Figure 3I,K2,DT+
+dt,PD1,KSP-tetramer+ CD8+ T cells,80.0,Figure 3I,L2,DT+
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,55.4,Figure 3I,M3,DT−
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,40.8,Figure 3I,N3,DT−
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,17.0,Figure 3I,O3,DT−
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,19.6,Figure 3I,P3,DT−
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,34.1,Figure 3I,Q3,DT−
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,36.7,Figure 3I,R3,DT−
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,28.9,Figure 3I,S3,DT−
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,44.8,Figure 3I,T3,DT−
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,29.4,Figure 3I,U3,DT−
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,45.2,Figure 3I,V3,DT−
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,29.4,Figure 3I,C3,DT+
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,29.1,Figure 3I,D3,DT+
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,24.4,Figure 3I,E3,DT+
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,39.0,Figure 3I,F3,DT+
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,52.8,Figure 3I,G3,DT+
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,33.1,Figure 3I,H3,DT+
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,56.6,Figure 3I,I3,DT+
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,45.2,Figure 3I,J3,DT+
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,52.6,Figure 3I,K3,DT+
+dt,CTLA4,KSP-tetramer+ CD8+ T cells,65.5,Figure 3I,L3,DT+
+dt,ICOS,KSP-tetramer+ CD8+ T cells,62.6,Figure 3I,M4,DT−
+dt,ICOS,KSP-tetramer+ CD8+ T cells,60.0,Figure 3I,N4,DT−
+dt,ICOS,KSP-tetramer+ CD8+ T cells,29.9,Figure 3I,O4,DT−
+dt,ICOS,KSP-tetramer+ CD8+ T cells,17.6,Figure 3I,P4,DT−
+dt,ICOS,KSP-tetramer+ CD8+ T cells,46.7,Figure 3I,Q4,DT−
+dt,ICOS,KSP-tetramer+ CD8+ T cells,46.7,Figure 3I,R4,DT−
+dt,ICOS,KSP-tetramer+ CD8+ T cells,82.1,Figure 3I,S4,DT−
+dt,ICOS,KSP-tetramer+ CD8+ T cells,48.4,Figure 3I,T4,DT−
+dt,ICOS,KSP-tetramer+ CD8+ T cells,45.6,Figure 3I,U4,DT−
+dt,ICOS,KSP-tetramer+ CD8+ T cells,51.8,Figure 3I,V4,DT−
+dt,ICOS,KSP-tetramer+ CD8+ T cells,73.6,Figure 3I,C4,DT+
+dt,ICOS,KSP-tetramer+ CD8+ T cells,74.4,Figure 3I,D4,DT+
+dt,ICOS,KSP-tetramer+ CD8+ T cells,87.1,Figure 3I,E4,DT+
+dt,ICOS,KSP-tetramer+ CD8+ T cells,78.9,Figure 3I,F4,DT+
+dt,ICOS,KSP-tetramer+ CD8+ T cells,94.0,Figure 3I,G4,DT+
+dt,ICOS,KSP-tetramer+ CD8+ T cells,51.9,Figure 3I,H4,DT+
+dt,ICOS,KSP-tetramer+ CD8+ T cells,39.1,Figure 3I,I4,DT+
+dt,ICOS,KSP-tetramer+ CD8+ T cells,58.2,Figure 3I,J4,DT+
+dt,ICOS,KSP-tetramer+ CD8+ T cells,55.7,Figure 3I,K4,DT+
+dt,ICOS,KSP-tetramer+ CD8+ T cells,75.8,Figure 3I,L4,DT+
+dt,IFNg,KSP-tetramer+ CD8+ T cells,5.87,Figure 3I,M5,DT−
+dt,IFNg,KSP-tetramer+ CD8+ T cells,14.0,Figure 3I,N5,DT−
+dt,IFNg,KSP-tetramer+ CD8+ T cells,47.0,Figure 3I,O5,DT−
+dt,IFNg,KSP-tetramer+ CD8+ T cells,25.0,Figure 3I,P5,DT−
+dt,IFNg,KSP-tetramer+ CD8+ T cells,7.98,Figure 3I,Q5,DT−
+dt,IFNg,KSP-tetramer+ CD8+ T cells,16.9,Figure 3I,R5,DT−
+dt,IFNg,KSP-tetramer+ CD8+ T cells,17.2,Figure 3I,S5,DT−
+dt,IFNg,KSP-tetramer+ CD8+ T cells,5.7,Figure 3I,T5,DT−
+dt,IFNg,KSP-tetramer+ CD8+ T cells,4.7,Figure 3I,U5,DT−
+dt,IFNg,KSP-tetramer+ CD8+ T cells,9.4,Figure 3I,V5,DT−
+dt,IFNg,KSP-tetramer+ CD8+ T cells,32.5,Figure 3I,C5,DT+
+dt,IFNg,KSP-tetramer+ CD8+ T cells,25.71,Figure 3I,D5,DT+
+dt,IFNg,KSP-tetramer+ CD8+ T cells,32.0,Figure 3I,E5,DT+
+dt,IFNg,KSP-tetramer+ CD8+ T cells,25.33,Figure 3I,F5,DT+
+dt,IFNg,KSP-tetramer+ CD8+ T cells,26.34,Figure 3I,G5,DT+
+dt,IFNg,KSP-tetramer+ CD8+ T cells,28.0,Figure 3I,H5,DT+
+dt,IFNg,KSP-tetramer+ CD8+ T cells,28.0,Figure 3I,I5,DT+
+dt,IFNg,KSP-tetramer+ CD8+ T cells,19.0,Figure 3I,J5,DT+
+dt,IFNg,KSP-tetramer+ CD8+ T cells,30.1,Figure 3I,K5,DT+
+dt,IFNg,KSP-tetramer+ CD8+ T cells,10.1,Figure 3I,L5,DT+
+dt,Tetramer abundance,CD8+ T cells,21.88,Figure 3H,M2,DT−
+dt,Tetramer abundance,CD8+ T cells,24.47,Figure 3H,N2,DT−
+dt,Tetramer abundance,CD8+ T cells,23.26,Figure 3H,O2,DT−
+dt,Tetramer abundance,CD8+ T cells,29.04,Figure 3H,P2,DT−
+dt,Tetramer abundance,CD8+ T cells,25.36,Figure 3H,Q2,DT−
+dt,Tetramer abundance,CD8+ T cells,26.8,Figure 3H,R2,DT−
+dt,Tetramer abundance,CD8+ T cells,47.2,Figure 3H,S2,DT−
+dt,Tetramer abundance,CD8+ T cells,14.7,Figure 3H,T2,DT−
+dt,Tetramer abundance,CD8+ T cells,37.7,Figure 3H,U2,DT−
+dt,Tetramer abundance,CD8+ T cells,49.2,Figure 3H,V2,DT−
+dt,Tetramer abundance,CD8+ T cells,24.15,Figure 3H,C2,DT+
+dt,Tetramer abundance,CD8+ T cells,23.92,Figure 3H,D2,DT+
+dt,Tetramer abundance,CD8+ T cells,27.47,Figure 3H,E2,DT+
+dt,Tetramer abundance,CD8+ T cells,24.28,Figure 3H,F2,DT+
+dt,Tetramer abundance,CD8+ T cells,31.8,Figure 3H,G2,DT+
+dt,Tetramer abundance,CD8+ T cells,39.2,Figure 3H,H2,DT+
+dt,Tetramer abundance,CD8+ T cells,39.6,Figure 3H,I2,DT+
+dt,Tetramer abundance,CD8+ T cells,44.1,Figure 3H,J2,DT+
+dt,Tetramer abundance,CD8+ T cells,68.7,Figure 3H,K2,DT+
+dt,Tetramer abundance,CD8+ T cells,33.6,Figure 3H,L2,DT+
+9h10,PD1,KSP-tetramer+ CD8+ T cells,76.0,Figure 4D,M8,Isotype
+9h10,PD1,KSP-tetramer+ CD8+ T cells,77.0,Figure 4D,N8,Isotype
+9h10,PD1,KSP-tetramer+ CD8+ T cells,88.0,Figure 4D,O8,Isotype
+9h10,PD1,KSP-tetramer+ CD8+ T cells,87.0,Figure 4D,P8,Isotype
+9h10,PD1,KSP-tetramer+ CD8+ T cells,85.0,Figure 4D,Q8,Isotype
+9h10,PD1,KSP-tetramer+ CD8+ T cells,75.0,Figure 4D,R8,Isotype
+9h10,PD1,KSP-tetramer+ CD8+ T cells,89.0,Figure 4D,S8,Isotype
+9h10,PD1,KSP-tetramer+ CD8+ T cells,69.0,Figure 4D,T8,Isotype
+9h10,PD1,KSP-tetramer+ CD8+ T cells,77.0,Figure 4D,U8,Isotype
+9h10,PD1,KSP-tetramer+ CD8+ T cells,81.0,Figure 4D,V8,Isotype
+9h10,PD1,KSP-tetramer+ CD8+ T cells,82.0,Figure 4D,C8,9H10
+9h10,PD1,KSP-tetramer+ CD8+ T cells,95.0,Figure 4D,D8,9H10
+9h10,PD1,KSP-tetramer+ CD8+ T cells,81.0,Figure 4D,E8,9H10
+9h10,PD1,KSP-tetramer+ CD8+ T cells,73.0,Figure 4D,F8,9H10
+9h10,PD1,KSP-tetramer+ CD8+ T cells,97.0,Figure 4D,G8,9H10
+9h10,PD1,KSP-tetramer+ CD8+ T cells,75.0,Figure 4D,H8,9H10
+9h10,PD1,KSP-tetramer+ CD8+ T cells,59.0,Figure 4D,I8,9H10
+9h10,PD1,KSP-tetramer+ CD8+ T cells,70.0,Figure 4D,J8,9H10
+9h10,PD1,KSP-tetramer+ CD8+ T cells,68.0,Figure 4D,K8,9H10
+9h10,PD1,KSP-tetramer+ CD8+ T cells,59.0,Figure 4D,L8,9H10
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,32.5,Figure 4D,M9,Isotype
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,54.8,Figure 4D,N9,Isotype
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,38.0,Figure 4D,O9,Isotype
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,64.0,Figure 4D,P9,Isotype
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,47.0,Figure 4D,Q9,Isotype
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,34.0,Figure 4D,R9,Isotype
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,46.0,Figure 4D,S9,Isotype
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,33.0,Figure 4D,T9,Isotype
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,23.0,Figure 4D,U9,Isotype
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,28.0,Figure 4D,V9,Isotype
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,61.8,Figure 4D,C9,9H10
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,49.7,Figure 4D,D9,9H10
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,39.0,Figure 4D,E9,9H10
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,19.0,Figure 4D,F9,9H10
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,50.0,Figure 4D,G9,9H10
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,45.0,Figure 4D,H9,9H10
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,39.0,Figure 4D,I9,9H10
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,47.0,Figure 4D,J9,9H10
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,35.0,Figure 4D,K9,9H10
+9h10,CTLA4,KSP-tetramer+ CD8+ T cells,41.0,Figure 4D,L9,9H10
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,34.0,Figure 4D,M10,Isotype
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,26.0,Figure 4D,N10,Isotype
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,35.0,Figure 4D,O10,Isotype
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,13.0,Figure 4D,P10,Isotype
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,15.0,Figure 4D,Q10,Isotype
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,19.0,Figure 4D,R10,Isotype
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,11.0,Figure 4D,S10,Isotype
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,19.0,Figure 4D,T10,Isotype
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,22.0,Figure 4D,U10,Isotype
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,32.0,Figure 4D,V10,Isotype
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,40.0,Figure 4D,C10,9H10
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,70.0,Figure 4D,D10,9H10
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,64.0,Figure 4D,E10,9H10
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,52.0,Figure 4D,F10,9H10
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,69.0,Figure 4D,G10,9H10
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,41.0,Figure 4D,H10,9H10
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,55.0,Figure 4D,I10,9H10
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,70.0,Figure 4D,J10,9H10
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,49.0,Figure 4D,K10,9H10
+9h10,ICOS,KSP-tetramer+ CD8+ T cells,39.0,Figure 4D,L10,9H10
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,6.82,Figure 4D,M11,Isotype
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,27.5,Figure 4D,N11,Isotype
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,17.0,Figure 4D,O11,Isotype
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,11.0,Figure 4D,P11,Isotype
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,19.0,Figure 4D,Q11,Isotype
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,9.0,Figure 4D,R11,Isotype
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,7.0,Figure 4D,S11,Isotype
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,11.0,Figure 4D,T11,Isotype
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,18.0,Figure 4D,U11,Isotype
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,14.0,Figure 4D,V11,Isotype
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,18.0,Figure 4D,C11,9H10
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,17.5,Figure 4D,D11,9H10
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,23.1,Figure 4D,E11,9H10
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,48.9,Figure 4D,F11,9H10
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,39.9,Figure 4D,G11,9H10
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,33.0,Figure 4D,H11,9H10
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,28.0,Figure 4D,I11,9H10
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,19.0,Figure 4D,J11,9H10
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,33.0,Figure 4D,K11,9H10
+9h10,IFNg,KSP-tetramer+ CD8+ T cells,43.0,Figure 4D,L11,9H10
+9h10,Tetramer abundance,CD8+ T cells,38.0,Figure 4D,M2,Isotype
+9h10,Tetramer abundance,CD8+ T cells,40.8,Figure 4D,N2,Isotype
+9h10,Tetramer abundance,CD8+ T cells,54.8,Figure 4D,O2,Isotype
+9h10,Tetramer abundance,CD8+ T cells,28.3,Figure 4D,P2,Isotype
+9h10,Tetramer abundance,CD8+ T cells,25.0,Figure 4D,Q2,Isotype
+9h10,Tetramer abundance,CD8+ T cells,49.0,Figure 4D,R2,Isotype
+9h10,Tetramer abundance,CD8+ T cells,27.8,Figure 4D,S2,Isotype
+9h10,Tetramer abundance,CD8+ T cells,39.7,Figure 4D,T2,Isotype
+9h10,Tetramer abundance,CD8+ T cells,47.3,Figure 4D,U2,Isotype
+9h10,Tetramer abundance,CD8+ T cells,39.0,Figure 4D,V2,Isotype
+9h10,Tetramer abundance,CD8+ T cells,32.8,Figure 4D,C2,9H10
+9h10,Tetramer abundance,CD8+ T cells,41.8,Figure 4D,D2,9H10
+9h10,Tetramer abundance,CD8+ T cells,65.8,Figure 4D,E2,9H10
+9h10,Tetramer abundance,CD8+ T cells,61.9,Figure 4D,F2,9H10
+9h10,Tetramer abundance,CD8+ T cells,67.7,Figure 4D,G2,9H10
+9h10,Tetramer abundance,CD8+ T cells,35.0,Figure 4D,H2,9H10
+9h10,Tetramer abundance,CD8+ T cells,29.6,Figure 4D,I2,9H10
+9h10,Tetramer abundance,CD8+ T cells,34.1,Figure 4D,J2,9H10
+9h10,Tetramer abundance,CD8+ T cells,28.7,Figure 4D,K2,9H10
+9h10,Tetramer abundance,CD8+ T cells,29.6,Figure 4D,L2,9H10
+ezh2,PD1,KSP-tetramer+ CD8+ T cells,87.8,Figure 4G,C5,Anti-PD-1
+ezh2,PD1,KSP-tetramer+ CD8+ T cells,92.9,Figure 4G,D5,Anti-PD-1
+ezh2,PD1,KSP-tetramer+ CD8+ T cells,97.6,Figure 4G,E5,Anti-PD-1
+ezh2,PD1,KSP-tetramer+ CD8+ T cells,84.8,Figure 4G,F5,Anti-PD-1
+ezh2,PD1,KSP-tetramer+ CD8+ T cells,96.8,Figure 4G,G5,Anti-PD-1
+ezh2,PD1,KSP-tetramer+ CD8+ T cells,90.9,Figure 4G,H5,CPI-1205 + anti-PD-1
+ezh2,PD1,KSP-tetramer+ CD8+ T cells,87.8,Figure 4G,I5,CPI-1205 + anti-PD-1
+ezh2,PD1,KSP-tetramer+ CD8+ T cells,94.1,Figure 4G,J5,CPI-1205 + anti-PD-1
+ezh2,PD1,KSP-tetramer+ CD8+ T cells,90.7,Figure 4G,K5,CPI-1205 + anti-PD-1
+ezh2,PD1,KSP-tetramer+ CD8+ T cells,95.4,Figure 4G,L5,CPI-1205 + anti-PD-1
+ezh2,CTLA4,KSP-tetramer+ CD8+ T cells,39.7,Figure 4G,C6,Anti-PD-1
+ezh2,CTLA4,KSP-tetramer+ CD8+ T cells,45.6,Figure 4G,D6,Anti-PD-1
+ezh2,CTLA4,KSP-tetramer+ CD8+ T cells,50.4,Figure 4G,E6,Anti-PD-1
+ezh2,CTLA4,KSP-tetramer+ CD8+ T cells,54.1,Figure 4G,F6,Anti-PD-1
+ezh2,CTLA4,KSP-tetramer+ CD8+ T cells,59.0,Figure 4G,G6,Anti-PD-1
+ezh2,CTLA4,KSP-tetramer+ CD8+ T cells,50.6,Figure 4G,H6,CPI-1205 + anti-PD-1
+ezh2,CTLA4,KSP-tetramer+ CD8+ T cells,60.9,Figure 4G,I6,CPI-1205 + anti-PD-1
+ezh2,CTLA4,KSP-tetramer+ CD8+ T cells,54.0,Figure 4G,J6,CPI-1205 + anti-PD-1
+ezh2,CTLA4,KSP-tetramer+ CD8+ T cells,69.3,Figure 4G,K6,CPI-1205 + anti-PD-1
+ezh2,CTLA4,KSP-tetramer+ CD8+ T cells,43.6,Figure 4G,L6,CPI-1205 + anti-PD-1
+ezh2,ICOS,KSP-tetramer+ CD8+ T cells,27.1,Figure 4G,C7,Anti-PD-1
+ezh2,ICOS,KSP-tetramer+ CD8+ T cells,25.7,Figure 4G,D7,Anti-PD-1
+ezh2,ICOS,KSP-tetramer+ CD8+ T cells,22.0,Figure 4G,E7,Anti-PD-1
+ezh2,ICOS,KSP-tetramer+ CD8+ T cells,30.0,Figure 4G,F7,Anti-PD-1
+ezh2,ICOS,KSP-tetramer+ CD8+ T cells,31.8,Figure 4G,G7,Anti-PD-1
+ezh2,ICOS,KSP-tetramer+ CD8+ T cells,39.2,Figure 4G,H7,CPI-1205 + anti-PD-1
+ezh2,ICOS,KSP-tetramer+ CD8+ T cells,57.0,Figure 4G,I7,CPI-1205 + anti-PD-1
+ezh2,ICOS,KSP-tetramer+ CD8+ T cells,41.0,Figure 4G,J7,CPI-1205 + anti-PD-1
+ezh2,ICOS,KSP-tetramer+ CD8+ T cells,59.7,Figure 4G,K7,CPI-1205 + anti-PD-1
+ezh2,ICOS,KSP-tetramer+ CD8+ T cells,34.6,Figure 4G,L7,CPI-1205 + anti-PD-1
+ezh2,IFNg,KSP-tetramer+ CD8+ T cells,31.0,Figure 4G,C8,Anti-PD-1
+ezh2,IFNg,KSP-tetramer+ CD8+ T cells,23.0,Figure 4G,D8,Anti-PD-1
+ezh2,IFNg,KSP-tetramer+ CD8+ T cells,33.0,Figure 4G,E8,Anti-PD-1
+ezh2,IFNg,KSP-tetramer+ CD8+ T cells,36.0,Figure 4G,F8,Anti-PD-1
+ezh2,IFNg,KSP-tetramer+ CD8+ T cells,28.0,Figure 4G,G8,Anti-PD-1
+ezh2,IFNg,KSP-tetramer+ CD8+ T cells,48.0,Figure 4G,H8,CPI-1205 + anti-PD-1
+ezh2,IFNg,KSP-tetramer+ CD8+ T cells,35.0,Figure 4G,I8,CPI-1205 + anti-PD-1
+ezh2,IFNg,KSP-tetramer+ CD8+ T cells,56.0,Figure 4G,J8,CPI-1205 + anti-PD-1
+ezh2,IFNg,KSP-tetramer+ CD8+ T cells,39.0,Figure 4G,K8,CPI-1205 + anti-PD-1
+ezh2,IFNg,KSP-tetramer+ CD8+ T cells,42.0,Figure 4G,L8,CPI-1205 + anti-PD-1
+ezh2,Tetramer abundance,CD8+ T cells,74.3,Figure 4G,C2,Anti-PD-1
+ezh2,Tetramer abundance,CD8+ T cells,71.6,Figure 4G,D2,Anti-PD-1
+ezh2,Tetramer abundance,CD8+ T cells,50.9,Figure 4G,E2,Anti-PD-1
+ezh2,Tetramer abundance,CD8+ T cells,45.5,Figure 4G,F2,Anti-PD-1
+ezh2,Tetramer abundance,CD8+ T cells,55.7,Figure 4G,G2,Anti-PD-1
+ezh2,Tetramer abundance,CD8+ T cells,94.9,Figure 4G,H2,CPI-1205 + anti-PD-1
+ezh2,Tetramer abundance,CD8+ T cells,67.3,Figure 4G,I2,CPI-1205 + anti-PD-1
+ezh2,Tetramer abundance,CD8+ T cells,49.5,Figure 4G,J2,CPI-1205 + anti-PD-1
+ezh2,Tetramer abundance,CD8+ T cells,60.0,Figure 4G,K2,CPI-1205 + anti-PD-1
+ezh2,Tetramer abundance,CD8+ T cells,36.1,Figure 4G,L2,CPI-1205 + anti-PD-1
